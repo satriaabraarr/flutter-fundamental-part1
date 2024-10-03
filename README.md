@@ -4,9 +4,10 @@
 ![alt text](image.png)
 
 ## Praktikum 2: Menghubungkan Perangkat Android atau Emulator
+![screenshoot hello world!](images/01.png)
 
 ## Praktikum 3: Membuat Repository GitHub dan Laporan Praktikum
-![screenshoot hello world!](images/01.png)
+![alt text](image-9.png)
 
 ## Praktikum 4: Menerapkan Widget Dasar
 
