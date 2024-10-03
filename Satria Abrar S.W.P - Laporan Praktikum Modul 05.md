@@ -77,3 +77,18 @@ Kembali ke VS Code, ubah platform di pojok kanan bawah ke emulator atau device a
 Silakan screenshot seperti pada Langkah 11, namun teks yang ditampilkan dalam aplikasi berupa nama lengkap Anda. Simpan file screenshot dengan nama 01.png pada folder images (buat folder baru jika belum ada) di project hello_world Anda. Lalu ubah isi README.md seperti berikut, sehingga tampil hasil screenshot pada file README.md. Kemudian push ke repository Anda.<br>
 ![alt text](image-15.png)
 ![screenshoot hello world!](images/01.png)
+
+## Praktikum 4
+
+### Langkah 1: Text Widget
+Buat folder baru basic_widgets di dalam folder lib. Kemudian buat file baru di dalam basic_widgets dengan nama text_widget.dart. Ketik atau salin kode program berikut ke project hello_world Anda pada file text_widget.dart.<br>
+![alt text](image-16.png)
+Lakukan import file text_widget.dart ke main.dart, lalu ganti bagian text widget dengan kode di atas. Maka hasilnya seperti gambar berikut. Screenshot hasil milik Anda, lalu dibuat laporan pada file README.md.<br>
+![alt text](image-17.png)
+
+### Langkah 2: Image Widget
+Buat sebuah file image_widget.dart di dalam folder basic_widgets dengan isi kode berikut.<br>
+![alt text](image-18.png)
+Lakukan penyesuaian asset pada file pubspec.yaml dan tambahkan file logo Anda di folder assets project hello_world.<br>
+Jangan lupa sesuaikan kode dan import di file main.dart kemudian akan tampil gambar seperti berikut.<br>
+![alt text](image-19.png)
